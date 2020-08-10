@@ -1,0 +1,53 @@
+
+body{
+    width: 70%;
+    margin: auto;
+    background: url(wwwwwwww.jpeg);
+    
+    font-family:  Arial, sans-serif;
+    line-height: 1.5;
+    color: black;
+    text-align: justify;
+
+}
+
+main{
+    background: rgba(255, 255, 255, 0.274);
+    padding: 5px 40px;
+    margin: 30px;
+    border-radius: 35px;
+    margin-bottom: 450px;
+    
+}
+
+.logo {
+    text-align: center;
+
+
+}
+
+hr{
+    color: black;
+
+}
+
+
+.divBusca{
+    background-color: #fff6f699;
+    border: solid 1px black;
+    border-radius: 6px;
+    width: 220px;
+    height: 25px;
+    text-align: center;
+    
+}
+
+.botaoBuscar{
+    background-color: transparent;
+    font-size: 17px;
+    border: none;
+    width: 149px;
+    text-align: center;
+
+}
+ 
